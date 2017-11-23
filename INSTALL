@@ -1,1 +1,3 @@
-/usr/share/automake-1.14/INSTALL
+$ ./configure --enable-foobar
+$ make
+$ make install
